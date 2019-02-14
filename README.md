@@ -8,7 +8,7 @@
 Environment: 
 Host: Windows 8.1 4gbRam
 Virtualization software: VMware Workstation Pro 15 (VirtualBox 5.2.22 will do)
-Guest: Ubuntu 16.04.5 LTS (64-bit), Config: 4GB RAM / 40GB Storage
+Guest: Ubuntu 16.04.5 LTS (64-bit), Config: 2GB RAM / 40GB Storage
 --------------------------------
 
 Table of Contents
